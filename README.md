@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HillidatulIlmi
+- 👋 Hi, I’m @Hillidatul Ilmi
 - 👀 I’m interested in time series, spatial statistics, mathematical statistics, data mining, machine learning and deep learning.
 - 🌱 I’m currently learning data science and statistics.
 - 💞️ I’m looking to collaborate on in data science, data engineer and data analysis jobs
